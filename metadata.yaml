@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38837
     wikipedia: http://en.wikipedia.org/wiki/Richard_Connell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37430#The-Sin-of-Monsieur-Pettiponand-other-humorous-tales
 gutenberg_issued: '2011-09-15'
 gutenberg_type: Text
 identifiers:
