@@ -1,0 +1,33 @@
+_repo: The-Sin-of-Monsieur-Pettiponand-other-humorous-tales_37430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Connell, Richard Edward
+    alias: Connell, Richard
+    birthdate: 1893
+    deathdate: 1949
+    gutenberg_agent_id: '38837'
+    url: http://www.gutenberg.org/2009/agents/38837
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Connell
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: The sin of Monsieur Pettipon -- Mr. Pottle and the South-Sea cannibals
+  -- Mr. Pottle and culture -- Mr. Pottle and the one man dog -- Mr. Pottle and pageantry
+  -- The cage man -- Where is the Tropic of Capricorn? -- Mr. Braddy's bottle -- Gretna
+  Greenhorns -- Terrible Epps -- Honor among sportsmen -- The $25,000 jaw.
+title: The Sin of Monsieur Pettipon, and other humorous tales
+url: http://www.gutenberg.org/ebooks/37430
